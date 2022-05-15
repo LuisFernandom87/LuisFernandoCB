@@ -1,4 +1,4 @@
-# Hi, I'm Luís Fernando, a 17 years old almost developer.
+# Hi, I'm Luís Fernando, a 17 years old almost developer.🌵✨
 
 ## About me <img width="40px" align="center" src='https://d3qhp42p4neron.cloudfront.net/ARCHIVE/animated/3.0/GIF/512/rocket.gif?Expires=1652573182&amp;Signature=OqIO7aeFt05SvLC55M2x7XWGw5QK~lTmyKT-geAooSP19ojoJ92KE4qF2maNUdFA8wPNRadsPjbhkixQMcwpAvSBJa0n8IUkVJfb-sJD~OHoWtsZSwnvDfhBGCKQKBNCp7xJ~RD5urDMQc1I5fT6OHEYjwRgbeQiqZEXiNZEGwYfA-L381RHqvsKWsw8A4TLv~fhAM2juP4LJ-CDt8-e~VYlOoCpGWRETbwAQDuSx~vH~pT~6-Fvsbjjs7k7R6Bc0TvmrtAvTh8W8ahhwBpsxj8u13d6lqFTFRPl8br1w9YKCw6KL1Ggvvl4bxK2UChpky21GntpptGQKSfGP39rOQ__&amp;Key-Pair-Id=APKAIRGCVGOY7DOKYTJA'>
   - Future Technician in System Development 💻
