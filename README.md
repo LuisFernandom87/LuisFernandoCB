@@ -34,7 +34,7 @@
   <a href = "mailto:lfcb0820@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luís-fernando-cavalcante-barbosa-276808225/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-## Pet Python <img width="40px" align="center" src="https://cdn.joypixels.com/products/previews/O6D7BMG8R2DMMNC4LLZH/3093_HjgESrckdGU7zYxTAYeXKeGd17abTuBS.gif"> Remember to say hi!  
+## Pet Python <img width="40px" align="center" src="https://cdn.joypixels.com/products/previews/O6D7BMG8R2DMMNC4LLZH/3093_HjgESrckdGU7zYxTAYeXKeGd17abTuBS.gif"> Remember to pet the pet!  
   
   ![Snake animation](https://github.com/LuisFernandoCB/LuisFernandoCB/blob/output/github-contribution-grid-snake.svg)
  
