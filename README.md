@@ -1,7 +1,7 @@
 # Hi, I'm Luís Fernando, a 18 years old almost developer.🌵✨
 
 ## About me <img width="40px" align="center" src='https://cdn.joypixels.com/products/previews/O6D7BMG8R2DMMNC4LLZH/3148_0Zf7XssvjygbfIK0wUIrodM7C43tdOqc.gif'>
-  - Future Technician in System Development 💻
+  - Technician in System Development 💻
   - Brazilian 🇧🇷
   - Finishing high school 📖
   - Problem Solver 💡
