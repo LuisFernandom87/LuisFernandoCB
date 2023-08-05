@@ -3,7 +3,6 @@
 ## About me <img width="40px" align="center" src='https://cdn.joypixels.com/products/previews/O6D7BMG8R2DMMNC4LLZH/3148_0Zf7XssvjygbfIK0wUIrodM7C43tdOqc.gif'>
   - Technician in System Development 💻
   - Brazilian 🇧🇷
-  - Finishing high school 📖
   - Problem Solver 💡
   - Front End Enthusiast 🌐
   - Astronomy lover 🪐 🔭
