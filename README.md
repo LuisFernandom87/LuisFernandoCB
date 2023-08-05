@@ -29,8 +29,6 @@
 ## Social Media <img width="40px" align="center" src="https://cdn.joypixels.com/products/previews/O6D7BMG8R2DMMNC4LLZH/3103_XrKeYX3DRCF5WKgu2v13fbhTwkTxTdyG.gif">
   
 <div> 
-  <a href="https://www.instagram.com/luisfernandome87/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 
 ## Pet Python <img width="40px" align="center" src="https://cdn.joypixels.com/products/previews/O6D7BMG8R2DMMNC4LLZH/3093_HjgESrckdGU7zYxTAYeXKeGd17abTuBS.gif"> Remember to pet the pet!  
   
   ![Snake animation](https://github.com/LuisFernandom87/LuisFernandoCB/blob/output/github-contribution-grid-snake.svg)
