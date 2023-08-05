@@ -33,6 +33,6 @@
  
 ## Pet Python <img width="40px" align="center" src="https://cdn.joypixels.com/products/previews/O6D7BMG8R2DMMNC4LLZH/3093_HjgESrckdGU7zYxTAYeXKeGd17abTuBS.gif"> Remember to pet the pet!  
   
-  ![Snake animation](https://github.com/LuisFernandom87/LuisFernandom87/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/LuisFernandom87/LuisFernandoCB/blob/output/github-contribution-grid-snake.svg)
  
 </div>
